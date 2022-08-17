@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Vollkorn", serif;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    outline: none;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+:root{
+    --blue-work: hsl(246, 80%, 60%);
+    --soft-blue-play: hsl(195, 74%, 62%);
+    --light-red-study: hsl(348, 100%, 68%);
+    --lime-green-exercise: hsl(145, 58%, 55%);
+    --violet-social: hsl(264, 64%, 52%);
+    --soft-orange-selfcare: hsl(43, 84%, 65%);
+}
+
