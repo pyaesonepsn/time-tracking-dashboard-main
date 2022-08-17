@@ -94,9 +94,9 @@ main{
     color: var(--text-primary);
 }
 
-/*.active{*/
-/*    color: var(--text-primary);*/
-/*}*/
+.active{
+    color: var(--text-primary);
+}
 
 .all-cards{
     display: grid;
